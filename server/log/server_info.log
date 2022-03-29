@@ -1,0 +1,6 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2022/03/29 - 11:16:31.264	[34minfo[0m	D:/go/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2022/03/29 - 11:16:31.321	[34minfo[0m	D:/go/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2022/03/29 - 11:16:31.322	[34minfo[0m	D:/go/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2022/03/29 - 11:16:31.338	[34minfo[0m	D:/go/gin-vue-admin/server/initialize/router.go:80	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2022/03/29 - 11:16:31.339	[34minfo[0m	D:/go/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2022/03/29 - 16:07:46.523	[34minfo[0m	D:/go/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	前往初始化数据库
